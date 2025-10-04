@@ -15,3 +15,6 @@ unstructured
 
 langchain-huggingface
 sentence-transformers
+openai
+langchain-google-genai
+google-generativeai
